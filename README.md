@@ -1,8 +1,18 @@
-### Hi there 👋
+# My Academic Projects
+
+## Machine Learning Projects
+<!-- 
+1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks]()
+2. [Pricing & Matching Project]() 
+-->
+
+## Other Projects
+1. [Non-Deterministic Turing Machine Simulator in C](https://github.com/luca-castellazzi/API_project_2017-2018)
+<!-- 
+2. [Flying Ring-Chaser Game in JavaScript]()
+-->
 
 <!--
-**luca-castellazzi/luca-castellazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
