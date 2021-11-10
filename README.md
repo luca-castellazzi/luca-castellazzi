@@ -8,9 +8,7 @@
 
 ## Other Projects
 1. [Non-Deterministic Turing Machine Simulator in C](https://github.com/luca-castellazzi/API_project_2017-2018)
-<!-- 
-2. [Flying Ring-Chaser Game in JavaScript]()
--->
+2. [Endless Flying Ring-Chaser Game in JavaScript](https://github.com/luca-castellazzi/computer-graphics_project_2020-2021) <!-- STILL PRIVATE -->
 
 <!--
 Here are some ideas to get you started:
