@@ -1,6 +1,8 @@
 # My Academic Projects
 
 ## Machine Learning Projects
+1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)
+2. Pricing & Matching Project in Python
 <!-- 
 1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)]()
 2. [Pricing & Matching Project in Python]()
@@ -10,6 +12,7 @@
 
 ## Other Projects
 1. [Non-Deterministic Turing Machine Simulator in C](https://github.com/luca-castellazzi/API_project_2017-2018)
+2. Endless Flying Ring-Chaser Game in JavaScript
 <!-- 2. [Endless Flying Ring-Chaser Game in JavaScript](https://github.com/luca-castellazzi/computer-graphics_project_2020-2021) <!-- STILL PRIVATE -->
 
 <!--
