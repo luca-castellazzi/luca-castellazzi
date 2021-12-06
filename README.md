@@ -1,7 +1,7 @@
 # My Academic Projects
 
 ## Machine Learning Projects
-1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)
+1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks in Python (Tensorflow, Keras)
 2. Pricing & Matching Project in Python
 <!-- 
 1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)]()
