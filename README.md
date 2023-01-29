@@ -2,10 +2,9 @@
 
 ## Machine Learning Projects
 1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks in Python (Tensorflow, Keras)
-2. Pricing & Matching Project in Python
+2. Pricing & Matching Project in Python ()](https://github.com/fabio-barbieri/DIA-project-2021-Pricing-and-Matching)
 <!-- 
 1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)]()
-2. [Pricing & Matching Project in Python ()](https://github.com/fabio-barbieri/DIA-project-2021-Pricing-and-Matching)
 3. [Recommender System for Movie Recommendation in Python]()
 4. Data Mining Project on real-world data in Python (cannot be shared due to NDA Contract)
 -->
