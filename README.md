@@ -3,6 +3,7 @@
 ## Machine Learning Projects
 1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks in Python (Tensorflow, Keras)
 2. [Pricing & Matching Project in Python (Multi-Armed Bandit)](https://github.com/fabio-barbieri/DIA-project-2021-Pricing-and-Matching)
+3. Recommender System for Movie Recommendation in Python
 <!-- 
 1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)]()
 3. [Recommender System for Movie Recommendation in Python]()
