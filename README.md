@@ -1,9 +1,9 @@
 # My Academic Projects
 
 ## Machine Learning Projects
-1. Image Classification, Image Segmentation and Visual Question Answering with Neural Networks in Python (Tensorflow, Keras)
-2. [Pricing & Matching Project in Python (Multi-Armed Bandit)](https://github.com/fabio-barbieri/DIA-project-2021-Pricing-and-Matching)
-3. Recommender System for Movie Recommendation in Python
+1. [Python] Image Classification, Image Segmentation and Visual Question Answering with Neural Networks (Tensorflow, Keras)
+2. [Python] [Pricing & Matching Project (Multi-Armed Bandit)](https://github.com/fabio-barbieri/DIA-project-2021-Pricing-and-Matching)
+3. [Python] Recommender System for Movie Recommendation
 <!-- 
 1. [Image Classification, Image Segmentation and Visual Question Answering with Neural Networks with Python (Tensorflow, Keras)]()
 3. [Recommender System for Movie Recommendation in Python]()
@@ -11,8 +11,8 @@
 -->
 
 ## Other Projects
-1. [Non-Deterministic Turing Machine Simulator in C](https://github.com/luca-castellazzi/API_project_2017-2018)
-2. [Endless Flying Ring-Chaser Game in JavaScript](https://github.com/luca-castellazzi/Computer-Graphics_project_2020-2021)
+1. [C] [Non-Deterministic Turing Machine Simulator](https://github.com/luca-castellazzi/API_project_2017-2018)
+2. [JavaScript] [Endless Flying Ring-Chaser Game](https://github.com/luca-castellazzi/Computer-Graphics_project_2020-2021)
 
 <!--
 Here are some ideas to get you started:
